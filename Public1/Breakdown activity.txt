@@ -1,0 +1,4 @@
+1. ambil image httpd
+2. run apt-get update
+3. run apt-get install -y vim net-tools iputils-ping
+4. copy file to /usr/local/apache2/htdocs/index.html
